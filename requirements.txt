@@ -1,0 +1,8 @@
+requests
+python-dotenv
+pandas
+urllib3
+openpyxl
+streamlit
+matplotlib
+networkx

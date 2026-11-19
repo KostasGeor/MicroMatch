@@ -1,0 +1,15 @@
+# Tracker login: stays on your computer, never on GitHub
+.env
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editor settings
+.idea/
+.vscode/
+
+# Searches and imports saved by MicroMatch
+gui/datasets/
